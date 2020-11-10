@@ -1,0 +1,92 @@
+[
+    {
+        "name": "web前端知识图谱",
+        "open": true,
+        "children": [
+            {
+                "name": "javascript",
+                "open": false
+            },
+            {
+                "name": "html",
+                "open": false
+            },
+            {
+                "name": "css",
+                "open": false
+            }
+        ]
+    },
+    {
+        "name": "数据结构和算法",
+        "open": true,
+        "children": [
+            {
+                "name": "栈",
+                "open": false
+            },
+            {
+                "name": "队列",
+                "open": false
+            },
+            {
+                "name": "链表",
+                "open": false
+            },
+            {
+                "name": "树",
+                "open": false
+            },
+            {
+                "name": "图",
+                "open": false
+            }
+        ]
+    },
+    {
+        "name": "前端三大主流框架",
+        "open": true,
+        "children": [
+            {
+                "name": "vue",
+                "open": false,
+                "children": [
+                    {
+                        "name": "vue",
+                        "open": true,
+                        "children": [
+                            {
+                                "name": "vue",
+                                "open": true
+                            },
+                            {
+                                "name": "react",
+                                "open": false
+                            },
+                            {
+                                "name": "angular",
+                                "open": false
+                            }
+                        ]
+                    },
+                    {
+                        "name": "react",
+                        "open": false
+                    },
+                    {
+                        "name": "angular",
+                        "open": false
+                    }
+                ]
+            },
+            {
+                "name": "react",
+                "open": false
+            },
+            {
+                "name": "angular",
+                "open": false
+            }
+        ]
+    }
+]
